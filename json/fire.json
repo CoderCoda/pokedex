@@ -1,0 +1,34 @@
+[
+	{
+		"name":"Charmander",
+		"path":"pictures/charmander.jpg"
+	},
+	{
+		"name":"Ponyta",
+		"path":"pictures/ponyta.jpg"
+	},
+	{
+		"name":"Cyndaquil",
+		"path":"pictures/cyndaquil.jpg"
+	},
+	{
+		"name":"Torchic",
+		"path":"pictures/torchic.jpg"
+	},
+	{
+		"name":"Chimchar",
+		"path":"pictures/chimchar.jpg"
+	},
+	{
+		"name":"Vulpix",
+		"path":"pictures/vulpix.jpg"
+	},
+	{
+		"name":"Slugma",
+		"path":"pictures/slugma.jpg"
+	},
+	{
+		"name":"Tepig",
+		"path":"pictures/tepig.jpg"
+	}
+]

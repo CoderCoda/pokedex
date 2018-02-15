@@ -1,0 +1,33 @@
+/* Mitchell Li */
+body {
+	background-color: #bc1616;
+}
+
+header img {
+	border-style: solid;
+	border-width: thick;
+	border-color: black;
+	width: 50%;
+	margin-top: 10%;
+	vertical-align: middle;
+}
+
+canvas {
+	border-style: solid;
+	border-width: thick;
+	background-color: white;
+}
+
+#leftButton, #rightButton {
+	width: 30%;
+	margin-top: 30%;
+}
+
+#grid img {
+	border-style: solid;
+	border-width: thick;
+	border-color: black;
+	vertical-align: middle;
+	margin-top: 10%;
+	height: 30%;
+}

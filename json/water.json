@@ -1,0 +1,34 @@
+[
+	{
+		"name":"Squirtle",
+		"path":"pictures/squirtle.jpg"
+	},
+	{
+		"name":"Poliwhirl",
+		"path":"pictures/poliwhirl.jpg"
+	},
+	{
+		"name":"Gyarados",
+		"path":"pictures/gyarados.jpg"
+	},
+	{
+		"name":"Lapras",
+		"path":"pictures/lapras.jpg"
+	},
+	{
+		"name":"Vaporeon",
+		"path":"pictures/vaporeon.jpg"
+	},
+	{
+		"name":"Totodile",
+		"path":"pictures/totodile.jpg"
+	},
+	{
+		"name":"Mudkip",
+		"path":"pictures/mudkip.jpg"
+	},
+	{
+		"name":"Piplup",
+		"path":"pictures/piplup.jpg"
+	}
+]

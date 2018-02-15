@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Mitchell Li -->
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="script.js" async></script>
+	<title>Pokedex</title>
+</head>
+<body class="container">
+
+<header class="row">
+	<div class="col-4 d-inline-block">
+		<input id="leftButton" class="btn float-right" type="button" value="Water" />
+	</div>
+	
+	<div id="banner" class="col-4 d-inline-block">
+		<img src="pictures/pikachu.jpg" class="d-block img-fluid mx-auto" alt="" />
+	</div>
+
+	<div class="col-4 d-inline-block">
+		<input id="rightButton" type="button" class="btn float-left" value="Fire" />
+	</div>
+</header>
+
+<!-- enlarged photo -->
+<div class="text-center m-5">
+	<canvas id="gui" width="600" height="600"></canvas>
+</div>
+
+<h3 class="d-block text-center mt-1 mb-5">Click on a Pokemon</h3>
+
+<div id="grid" class="row">
+	<!-- pictures go here -->
+</div>
+
+
+</body>
+</html>

@@ -1,0 +1,34 @@
+[
+	{
+		"name":"Bulbasaur",
+		"path":"pictures/bulbasaur.jpg"
+	},
+	{
+		"name":"Chikorita",
+		"path":"pictures/chikorita.jpg"
+	},
+	{
+		"name":"Bellossom",
+		"path":"pictures/bellossom.jpg"
+	},
+	{
+		"name":"Treecko",
+		"path":"pictures/treecko.jpg"
+	},
+	{
+		"name":"Roselia",
+		"path":"pictures/roselia.jpg"
+	},
+	{
+		"name":"Cacnea",
+		"path":"pictures/cacnea.jpg"
+	},
+	{
+		"name":"Turtwig",
+		"path":"pictures/turtwig.jpg"
+	},
+	{
+		"name":"Leafeon",
+		"path":"pictures/leafeon.jpg"
+	}
+]
